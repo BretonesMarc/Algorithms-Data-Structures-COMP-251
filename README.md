@@ -1,5 +1,5 @@
 # Algorithms-Data-Structures-COMP-251
-## ECSE 324 (Computer Organization) is a course offered by McGill University
+## ECSE 251 (Computer Organization) is a course offered by McGill University
  
 My submission of assignments, proofs, & deliverables for this course are found in this repo.
 
